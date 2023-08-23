@@ -10,7 +10,7 @@ Stay tuned for more exciting data science projects coming soon!
 ### 🌱 Tech Stack
 * Programming Languages: Python, R, SQL
 * Machine Learning Libraries: scikit-learn
-* Data Manipulation/Visualization: Pandas, NumPy, Matplotlib, Seaborn
+* Data Manipulation/Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI
 * Data Science Platforms: Jupyter Notebook, Google Colab
   
 I'm always eager to learn and expand my skill set in the rapidly evolving field of data science.
